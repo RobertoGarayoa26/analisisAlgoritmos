@@ -9,7 +9,7 @@ En este repositorio encontrarás los siguientes algoritmos y su implementación:
   2.1.- Coin Change problem (Python)
   
 3.- Heurísticas Voraces
-  3.1.- Coloreo de Grafos (C)
+  3.1.- Coloreo de Grafos (C++)
   
 4.- Knapsack (C)
 
